@@ -1,0 +1,3 @@
+```In React Router, a loader is a function that fetches data before a route is rendered. It ensures that the necessary data is available to the component as soon as it mounts, eliminating the need for useEffect or other data-fetching mechanisms within the component itself. ```
+
+```The <Outlet> component from React Router is used to render the child route elements within their parent route element. It acts as a placeholder, dynamically rendering the content of the matched child route. This is particularly useful for creating layouts where certain elements, like headers or sidebars, remain consistent across multiple routes, while the main content area changes based on the current URL.```

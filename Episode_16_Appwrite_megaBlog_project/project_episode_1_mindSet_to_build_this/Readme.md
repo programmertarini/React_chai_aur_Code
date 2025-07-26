@@ -1,0 +1,1 @@
+In this mega project we are going to build a blogpost app using react and Appwrite in backend with chai aur code.
